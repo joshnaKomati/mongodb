@@ -6,4 +6,3 @@ const usermodel=new mongoose.Schema({
     classes:String
 })
 module.exports=new mongoose.model('student',usermodel)
-db.post.agg
